@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Sing_In_via_sqLite</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="todo">TODO</string>
+    <string name="register">Register</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="use_other_methods">Use other Methods</string>
+    <string name="here_s_n_your_first_n_step_with_n_us">Here’s \n Your first \n Step with \n Us!</string>
+    <string name="name">Name</string>
+    <string name="login_hero_image">Login Hero Image</string>
+    <string name="facebook_icon">Facebook Icon</string>
+    <string name="google_plus_icon">Google Plus Icon</string>
+    <string name="back_image">Back Image</string>
+    <string name="username">Username</string>
+    <string name="already_n_have_an_n_account">Already \n have an \n Account?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_now">New user? Register Now</string>
+
+    <!--for facebook login-->
+
+    <!--facebook login ends-->
+
+    <!--error messages-->
 </resources>
